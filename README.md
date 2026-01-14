@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **arshshaikh214@gmail.com || arshs287@gmail.com** For Colla
 - 💬 **Ask me about: Javascript, React or any cool stuff
 - 📫 **How to reach me: arshshaikh214@gmail.com
 - 😄 **Pronouns:** Arsh Shaikh
-- ⚡ **Fun fact:** I Love Tech and to play cricket.
+- ⚡ **Fun fact:** I Love Tech and To Play Cricket.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arsh_shkh12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arshshaikh12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arshshaikh214@gmail.com) 
