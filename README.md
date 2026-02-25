@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **arshshaikh214@gmail.com || arshs287@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I'm currently working on: NetflixGPT
+- 🔭 **I'm currently working on: Electron JS POC
 - 🌱 **I'm currently learning: How Javascript works under the hood
 - 💬 **Ask me about: Javascript, React or any cool stuff
 - 📫 **How to reach me: arshshaikh214@gmail.com
