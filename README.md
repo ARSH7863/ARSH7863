@@ -3,9 +3,9 @@
 
 Email Me 👉 ✉️ **arshshaikh214@gmail.com || arshs287@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I'm currently working on: Electron JS POC
-- 🌱 **I'm currently learning: Mastering NodeJs
-- 💬 **Ask me about: Javascript, React, Node or any cool stuff!
+- 🔭 **I'm currently working on: CPIRXL App & DevTinder
+- 🌱 **I'm currently learning: Mastering NodeJs & Express APIs
+- 💬 **Ask me about: Javascript, React, Node, Electron or any cool stuff!
 - 📫 **How to reach me: arshshaikh214@gmail.com
 - ⚡ **Fun fact:** I Love Tech and To Play Cricket.
 
