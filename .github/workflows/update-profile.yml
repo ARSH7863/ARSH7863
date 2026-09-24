@@ -17,6 +17,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Create profile folder
+        run: mkdir -p profile
+
       # ---- Contribution snake (real, generated from your actual graph) ----
       - name: Generate snake animation
         uses: Platane/snk@v3
